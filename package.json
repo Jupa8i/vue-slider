@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Vue slider",
   "author": "",
-  "private": false,
+  "private": true,
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
