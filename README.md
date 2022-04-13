@@ -20,7 +20,7 @@ plugins: [
 
 // vue-slider.js
 import Vue from 'vue'
-import { Swiper, Slide } from "vue-swiper-component";
+import { Swiper, Slide } from "@jupa-dev/vue-slider/src/components";
 
 Vue.component('Swiper', Swiper)
 Vue.component('Slide', Slide)
