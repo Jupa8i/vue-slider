@@ -1,16 +1,13 @@
 
-# VUE-SIMPLE-SLIDER
-
-SLIDER VUE
-
-
+# @jupa-dev/vue-slider
+SLIDER VUE / NUXT
 
 ## Installation
 
 
 
 ```bash
-  npm i vue-slider
+  npm i @jupa-dev/vue-slider
 ```
     
 ## Usage/Examples
